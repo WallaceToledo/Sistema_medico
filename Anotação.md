@@ -17,3 +17,4 @@
 git config -- global user.name "Wallace Toledo"
 git config -- global git congiuser.email "contato@wtdancas.com.br"
 
+https://docs.djangoproject.com/en/6.0/
